@@ -4,3 +4,6 @@
 - Different accuracies and parameters are compared within different models.
 - Some layers have been added to the models and changes are made , which improved the accuracy and other parameters(refer the above .ipynb notebooks).
 - webpage is developed to interface trained model file i.e ".h5" to flask.
+
+## Webpage
+- extract the webapplication zip file in the same folder where the ".hs" files are present.
